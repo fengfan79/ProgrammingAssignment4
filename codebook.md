@@ -4,10 +4,8 @@ code book for the data set phone_activities.txt
 phone_activities.txt contains 180 records. Each record indicates the average value to the measurements for each subject(volunteer) and activity
 
 ### [1] VolunteerNumber
-Description: The number of volunteers
-
-Range: 1 : 30
-
+Description: The number of volunteers  
+Range: 1 : 30  
 Unit: NA
 
 ### [2] Activity
