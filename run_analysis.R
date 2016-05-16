@@ -18,7 +18,9 @@ run_analysis <- function() {
   
   #create a new tidy data set
   dfNewTidy <- createNewDataset(dsMerged)
-  dfNewTidy
+  
+  #write the data into a txt file
+  write.table(dfNewTidy, "phone_activities.txt", row.names = FALSE)
 }
 
 #get all the features from features.txt
