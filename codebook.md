@@ -1,7 +1,9 @@
 #Code Book
 code book for the data set phone_activities.txt
 
-phone_activities.txt contains 180 records. Each record indicates the average value to the measurements for each subject(volunteer) and activity
+phone_activities.txt contains 180 records. Each record indicates the average value to the measurements for each subject(volunteer) and activity. It contains 68 columns, the definition and of each column is described as below.
+
+All the features are normalized and bounded within [-1,1]
 
 ### [1] VolunteerNumber
 Description: The number of volunteers  
