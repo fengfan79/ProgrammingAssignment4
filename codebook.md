@@ -5,12 +5,16 @@ phone_activities.txt contains 180 records. Each record indicates the average val
 
 ### [1] VolunteerNumber
 Description: The number of volunteers
+
 Range: 1 : 30
+
 Unit: NA
 
 ### [2] Activity
 Description: The activity of person who carries the smart phone
+
 Range: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 Unit: NA
 
 ### [3] TimeBodyAccelerationMeanX
